@@ -4,7 +4,7 @@ steps:
   - gcloud
   - functions
   - deploy
-  - testGH-helloworld
+  - testGH-helloworld1
   - --region=us-east4
   - --source=.
   - --trigger-http
